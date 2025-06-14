@@ -8,5 +8,5 @@ To build an interactive Power BI dashboard which enables the insurance company t
 
 Tools Used: Power BI | DAX | Data Modeling 
 
-Interactive Live Dashboard: https://lnkd.in/gHSdZ6f9
+Interactive Live Dashboard: https://lnkd.in/gzemT78p
 Linked Post: https://tinyurl.com/Shield-Insurance-Analysis
